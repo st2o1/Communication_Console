@@ -24,7 +24,9 @@ Now the server app should look like this :
 # User APP
 You just Write the WAN-IP Address of the Server :
 <img src="https://github.com/st2o1/Communication_Console/blob/main/Client_IP_.PNG?raw=true">
+<br>
 And Port :
+<br>
 <img src="https://github.com/st2o1/Communication_Console/blob/main/Client_PORT_.PNG?raw=true">
 And boom💥 you are connected :
 <img src="https://github.com/st2o1/Communication_Console/blob/main/Clients_Connected_.PNG?raw=true">
