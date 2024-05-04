@@ -19,6 +19,7 @@ if you are on Windows, allow the firewall that is asked right after you typed th
 <img src="https://github.com/st2o1/Communication_Console/blob/main/Allow_Firewall.PNG?raw=true">
 <br>
 Now the server app should look like this :
+<br>
 <img src="https://github.com/st2o1/Communication_Console/blob/main/Server_started.PNG?raw=true">
 
 # User APP
@@ -28,7 +29,9 @@ You just Write the WAN-IP Address of the Server :
 And Port :
 <br>
 <img src="https://github.com/st2o1/Communication_Console/blob/main/Client_PORT_.PNG?raw=true">
+<br>
 And boom💥 you are connected :
+<br>
 <img src="https://github.com/st2o1/Communication_Console/blob/main/Clients_Connected_.PNG?raw=true">
 :=:
 <img src="https://github.com/st2o1/Communication_Console/blob/main/_Demonstration_of_Consoles.PNG?raw=true">
