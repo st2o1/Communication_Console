@@ -4,7 +4,9 @@ First of all, Start the executable.
 If you are on linux, go to the Terminal and type
 ```bash
 ./Server
-if for client. Use :
+```
+if for client, use :
+```bash
 ./User
 ```
 as for MacOS (I don't know lol, I am not an alien)
